@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "setCode": "yarn workspace @se-2/hardhat setCode"
+  }
+}
